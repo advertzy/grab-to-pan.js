@@ -16,7 +16,7 @@
 
 'use strict';
 
-var GrabToPan = (function GrabToPanClosure() {
+module.exports = (function GrabToPanClosure() {
   /**
    * Construct a GrabToPan instance for a given HTML element.
    * @param options.element {Element}
