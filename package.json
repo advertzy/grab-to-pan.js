@@ -1,0 +1,19 @@
+{
+  "name": "grab-to-pan",
+  "version": "1.0.0",
+  "description": "A slim library with one purpose: An easy way to pan elements, i.e. change the scrolling offset of a container by moving the mouse while the mouse button is pressed. To see an example, check out [this demo](https://rob--w.github.io/grab-to-pan.js/demo.html):",
+  "main": "grab-to-pan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advertzy/grab-to-pan.js.git"
+  },
+  "author": "Rob Wu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/advertzy/grab-to-pan.js/issues"
+  },
+  "homepage": "https://github.com/advertzy/grab-to-pan.js#readme"
+}
